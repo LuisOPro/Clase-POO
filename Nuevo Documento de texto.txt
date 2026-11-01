@@ -1,7 +1,4 @@
 Nombre: Luis Angel
 Edad: 25 años
 
-Hobbie: Jugar fut
-Vehiculo: Tesla
-
-Contexto: Juana la alpaca es una alpaca viajera
+Contexto: Juana la alpaca le gusta mucho ir a la playa
