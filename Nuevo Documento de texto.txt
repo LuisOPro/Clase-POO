@@ -3,3 +3,5 @@ Edad: 25 años
 
 Hobbie: Jugar fut
 Vehiculo: Tesla
+
+Contexto: Juana la alpaca es una alpaca viajera
